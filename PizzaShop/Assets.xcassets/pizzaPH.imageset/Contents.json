@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Pizza Mediana de Pepperoni.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
